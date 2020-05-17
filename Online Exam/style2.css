@@ -1,0 +1,38 @@
+body{
+   font-size:120%;
+   font-family:arial;
+   line-height:1.6em;
+   background:#669999;
+}
+li{
+   list-style:none;
+}
+a{
+  text-decoration:none;
+}
+label{
+  display:inline-block;
+  width:180px;
+}
+input[type='text']{
+	width:97%;
+	padding:4px;
+	border-radius:5px;
+	border:1px #ccc solid;
+}
+.container{
+	width:70%;
+	margin:0 auto;
+	overflow:auto;
+}
+header{
+  border-bottom:15px #ffccff solid;
+}
+footer{
+  border-top:15px #ffccff solid;
+  text-align:center;
+  padding-top:5px;
+}
+main{
+	padding-bottom:20px;
+}

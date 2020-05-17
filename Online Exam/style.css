@@ -1,0 +1,39 @@
+.create{
+	margin:120px;
+	text-align: center;
+}
+form,.content{
+   width: 40%;
+   margin:20px auto;
+   padding:20px;
+}
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+.input-group input{
+	height:50px;
+	width:300%;
+	padding: 10px 10px;
+	border: 1px solid gray;
+}
+.btn{
+   padding:10px;
+   font-size:15px;
+   color:white;
+   background:#669999;
+   align:center;
+   position:relative;
+   margin-left:250px;
+   border:none;
+   border-radius:5px;
+}
+.error{
+	width: 114%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
