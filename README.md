@@ -7,9 +7,12 @@ Online Examination Website is designed to sit for different types examination in
 This website has been created where you can practice any type of questions within a fixed time limit and find out the score. This website is totally free of cost. Whether someone is planning to admit in a graduate school or preparing for any competitive examination, it will be a wise decision to show the schools someone's potentials through extensive practice. This website can help them in their practice. A student can practice as many time as they want without any charge. 
 
 ## Requirements
-1.	IDE: Notepad++ 
-2.	Languages: HTML, CSS, PHP, JavaScript, Bootstrap 
-3.	Database: MySQL
+
+Languages: HTML, CSS, PHP, JavaScript, Bootstrap 
+
+Database: MySQL
+
+IDE: Notepad++ 
 
 ## Features
 1. User can register as a participant in the website.
