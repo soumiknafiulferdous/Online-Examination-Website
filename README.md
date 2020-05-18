@@ -15,9 +15,10 @@ This website has been created where you can practice any type of questions withi
 1. User can register as a participant in the website.
 2. There will be option for setting multiple choice questions in the admin panel.
 3. Multi answer questions can also be added in the quiz.
-4. Attempted question, number of correct and wrong answer can be checked after the exam.
-5. User can see his/her information after logging in the system.
-6. There will be option for admin to configure the time limit to complete the exam. 
-7. Anyone (registered or un-registered) can contact to the admin for any kind of help or information.
-8. All information of the user is stored in the database. 
-9. Students can know their previous test records and analyze their performance. 
+4. There will be different sections for each subject. 
+5. Attempted question, number of correct and wrong answer can be checked after the exam.
+6. User can see his/her information after logging in the system.
+7. There will be option for admin to configure the time limit to complete the exam. 
+8. Anyone (registered or un-registered) can contact to the admin for any kind of help or information.
+9. All information of the user is stored in the database. 
+10. Students can know their previous test records and analyze their performance. 
